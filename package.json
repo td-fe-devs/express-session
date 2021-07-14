@@ -1,0 +1,20 @@
+{
+  "name": "express-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index-router.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index-router.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "typescript": "^4.3.5"
+  }
+}
